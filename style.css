@@ -1,0 +1,184 @@
+body * {
+    margin: 0px;
+   padding: 0px;
+   font-family: serif;
+   position: relative;
+}
+
+
+
+/*header seccion starts*/
+#main-header{
+    background-color: #F9F9F9;
+    position: fixed;
+    z-index: 1;
+}
+
+/*info-bars and icons here*/
+
+#info{
+    margin: 0px;
+    padding: 0px;
+    background-color:#8FA7BF;
+    height: 40px;
+    width: 100%;
+
+}
+#info a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+
+#icon{
+    font-size: 22px;
+    color: white;
+    margin-left: 50px;
+}
+#icon1{
+    font-size: 22px;
+    color: white;
+}
+/*info bar ends here*/
+
+/*in header menu bar and brand start here*/
+
+#header{
+   background-color: #F9F9F9;
+   width: 100%;
+   height:100px; 
+}
+#brand{
+/*    background-color: #F9F9F9;*/
+    height: 100px;
+}
+
+/*navigon bar start here*/
+
+
+#nav{
+    
+    height:100px;
+}
+#nav ul{
+    list-style: none;
+    color: #B1B1B1;
+    margin: 0px;
+    float: left;
+}
+#nav ul li{
+    float: left;
+    display: inline;
+    padding: 0px 20px;
+    font-size: 18px;
+    max-height: 100px;
+    line-height: 80px;
+}
+#nav ul li a{
+    list-style: none;
+    text-decoration: none;
+    color: #B1B1B1;
+}
+
+span{
+    padding-bottom:50px;
+text-align: center;
+}
+.para{
+    font-size: 16px;
+    color: black;
+}
+h1{
+  font-size: 52px;
+    text-align: center;
+    font-family: impact;
+    color: #8FA7BF;
+}
+#about{
+    height: 500px;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 16px;
+    height: 500px;
+}
+
+.mission-text{
+    height: 100px;
+    background-color:white;
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px 0px;    
+}
+#rdl-missions{
+    height: 200px;
+    margin: 20px;
+    padding: 0px;
+}
+#rdl-missions a{
+    text-decoration: none;
+}
+
+.item {
+    width: 100%;
+    height: 200px;
+    margin: 0px;
+    text-align: center;
+   background-color: blue;
+    position: relative;
+    opacity: 1;
+    transition:all .3s ease;
+    background-color: #008cba;
+}
+p{
+    font-size: 20px;
+    padding-top: 70px;
+    padding-right: 0px;
+    color:white;
+    font-family: bold;
+}
+#missions{
+    margin-top: 40px;
+    width: 100%;
+    height: cover auto;
+}
+form{
+    text-align: center;
+}
+
+#rdl-contact-form{
+     background-image: url('download.jpg');
+    background-size: 100% 800px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
+.form{
+       margin-top: 66px;
+
+}
+.image{
+    height: 500px;
+    margin-top: 10px;
+}
+#rdl-info-cont-loc{
+    padding: 0px 20px;
+}
+#rdl-myclients-1{
+    margin-top: 100px;
+    float: left;
+}
+#myclients{
+    margin-top: 50px;
+    width: 100%;
+    height: 700px;
+    background-color: #EFEFEF;
+}
+
